@@ -19,7 +19,7 @@ streamlit
 fastapi
 
 spacy
-https://your-host/en_core_web_sm-3.8.0-py3-none-any.whl
+en_core_web_sm-3.8.0-py3-none-any.whl
 
 
 

@@ -9,6 +9,8 @@ from langchain_community.document_loaders import (
     UnstructuredHTMLLoader,
     UnstructuredMarkdownLoader,
 )
+import streamlit as st
+
 def load_uploaded_file(uploaded_file):
     suffix = os.path.splitext(uploaded_file.name)[1].lower()
 

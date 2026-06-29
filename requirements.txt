@@ -18,9 +18,8 @@ python-dotenv
 streamlit
 fastapi
 
-python-docx
-python-pptx
+spacy
+en_core_web_sm
 
-beautifulsoup4
-Jinja2
-lxml
+
+
